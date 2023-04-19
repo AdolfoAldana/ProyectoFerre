@@ -9,7 +9,7 @@
 *.VC
 *.VC.db-shm
 *.VC.db-wal
-
+*.VC.opendb
 
 # Precompiled Headers
 *.gch
