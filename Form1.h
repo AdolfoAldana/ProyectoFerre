@@ -47,6 +47,7 @@ namespace CppCLRWinFormsProject {
 		/// Required method for Designer support - do not modify
 		/// the contents of this method with the code editor.
 		/// </summary>
+		/// Pregunta
 		void InitializeComponent(void)
 		{
 			this->components = gcnew System::ComponentModel::Container();
